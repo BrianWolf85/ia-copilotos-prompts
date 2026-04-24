@@ -42,7 +42,7 @@ Ele funciona como um **debugger humano experiente**.
 * levanta hipóteses testáveis
 * foca em causa raiz
 
-📄 Prompt: `prompts/prompt-ask.md`
+📄 Prompt: [prompts/prompt-ask.md](./prompts/prompt-ask.md)
 
 ---
 
@@ -70,7 +70,7 @@ Ele força o pensamento de engenharia:
 * refatorações grandes
 * decisões de arquitetura
 
-📄 Prompt: `prompts/prompt-plan.md`
+📄 Prompt: [prompts/prompt-plan.md](./prompts/prompt-plan.md)
 
 ---
 
@@ -94,7 +94,7 @@ Ele atua como um desenvolvedor executando tarefas com qualidade de engenharia.
 * criação de scripts
 * desenvolvimento de projetos reais
 
-📄 Prompt: `prompts/prompt-agent.md`
+📄 Prompt: [prompts/prompt-agent.md](./prompts/prompt-agent.md)
 
 ---
 
@@ -114,7 +114,7 @@ Ele não apenas responde — ele ensina.
 
 Funciona como um **tutor técnico**, não apenas um assistente.
 
-📄 Prompt: `prompts/prompt-study.md`
+📄 Prompt: [prompts/prompt-study.md](./prompts/prompt-study.md)
 
 ---
 
